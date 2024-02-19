@@ -1070,7 +1070,7 @@ header .container .main-nav > li:hover .mega-menu {
 .discount .image {
     width: 50%;
     text-align: center;
-    background-image: url(/images/discount-background2.jpg);
+    background-image: url(images/discount-background2.jpg);
     color: white;
     background-size: cover;
     animation: change-background 5s infinite alternate;
@@ -1088,13 +1088,13 @@ header .container .main-nav > li:hover .mega-menu {
 }
 @keyframes change-background {
     0% {
-        background-image: url(/images/discount-background2.jpg);
+        background-image: url(images/discount-background2.jpg);
     }
     50% {
-        background-image: url(/images/discount-background1.jpg);
+        background-image: url(images/discount-background1.jpg);
     }
     100% {
-        background-image: url(/images/discount-background2.jpg)
+        background-image: url(images/discount-background2.jpg)
     }
 }
 .discount .image::after {
